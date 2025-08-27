@@ -2,6 +2,8 @@
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/017088f2-6c0f-4e46-bc46-4dafffd0bc78" />
 
+[🎥 Assista ao vídeo de demonstração](https://youtu.be/ibDgHb9xzM8)
+
 Este projeto é uma automação completa de testes para a aplicação web Starbugs, desenvolvida com Ruby e Cucumber. Aqui você encontra uma implementação robusta de testes end-to-end que cobre todo o fluxo de compra de cafés, desde a navegação no catálogo até a finalização do pedido.
 
 ## 🎯 O que este projeto faz
