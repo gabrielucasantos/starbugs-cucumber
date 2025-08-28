@@ -1,4 +1,4 @@
-# ☕ Starbugs - Automação de Testes
+# Starbugs Coffee - Automação de Testes
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/017088f2-6c0f-4e46-bc46-4dafffd0bc78" />
 
